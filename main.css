@@ -4,7 +4,7 @@ body{
 	font-family: arial, sans-serif;
 }
 header {
-	background-color:##4c85b4;
+	background-color:#001eff;
 	padding:10px;
 	text-align:center;
 	}
@@ -14,7 +14,7 @@ h1{
 }
 
 nav a{
-	background-color:hotpink;
+	background-color:cadetblue;
 	margin: 20px;
 	padding: 5px 10px;
 	border-radius: 5px;
@@ -36,7 +36,7 @@ nav a{
  	margin: 20px;
  }
  article:last-of-type{
- 	color: hotpink;
+ 	color: cadetblue;
  }
 
  h2{
@@ -53,7 +53,7 @@ nav a{
  	width:70%;
  	margin:0 auto;
  	padding:5px 20px;
- 	background-color: blueviolet;
+ 	background-color: powderblue;
  	height: 90px;
  }
 
@@ -61,7 +61,7 @@ nav a{
  	width: 50%;
  	float:left;
  	height: 90px;
- 	background-color:blueviolet;
+ 	background-color:powderblue;
  	/* padding: 3px; */
  	color: #fff;
  	text-align: center;
