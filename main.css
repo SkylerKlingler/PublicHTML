@@ -10,7 +10,7 @@ header {
 	}
 
 h1{
-	color:#686868;
+	color:#000;
 }
 
 nav a{
@@ -18,7 +18,7 @@ nav a{
 	margin: 20px;
 	padding: 5px 10px;
 	border-radius: 5px;
-	color: #fff;
+	color: #000;
 	text-decoration:none;
 }
 
@@ -30,8 +30,8 @@ nav a{
         padding: 20px;
         }
  article{
- 	background-color:#b3b3b3;
- 	color:#000;
+ 	background-color: #b3b3b3;
+ 	color:#000000;
  	padding:15px;
  	margin: 20px;
  }
@@ -63,7 +63,7 @@ nav a{
  	height: 90px;
  	background-color:powderblue;
  	/* padding: 3px; */
- 	color:#fff;
+ 	color: #fff;
  	text-align: center;
  }
 
